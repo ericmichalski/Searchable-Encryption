@@ -1,0 +1,4 @@
+c1.txt bengals steelers packers
+c2.txt packers patriots
+c3.txt packers
+c5.txt steelers packers
